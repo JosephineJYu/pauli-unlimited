@@ -1,0 +1,13 @@
+T=0.1
+mcx=1.0
+mcy=1.5
+mcz=100
+mfx=5.0
+mfy=7.5
+mfz=500
+dhyb=0.2
+mu=2.0
+gamma_x=GX
+gamma_y=GY
+gamma_z=GZ
+N_FS=320

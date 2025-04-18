@@ -1,0 +1,15 @@
+num_k_pts=400
+tcx=1.0
+tcy=1.0
+tfx=0.2
+tfy=0.2
+dhyb=0.01
+mu=0.8
+hmin=0.0
+hmax=1.0
+num_h=NUMH
+T=0.000
+g=VINT
+Uc=0.001
+Uf=UFINT
+tolerance=0.1
